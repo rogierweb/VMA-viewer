@@ -311,8 +311,3 @@ Dit betekent **niet** dat iedere privéwijziging automatisch openbaar op GitHub 
 Voeg het volledige officiële licentiebestand als **`LICENSE`** toe aan de repository. De vermelding in deze README vervangt dat bestand niet. Controleer vóór publicatie ook of je bevoegd bent om alle opgenomen code en modelgegevens onder deze licentie beschikbaar te stellen, en of de licenties van gebruikte componenten hiermee verenigbaar zijn.
 
 Meer informatie: [GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
-
----
-
-**VMA Viewer**  
-Een hulpmiddel voor het inzichtelijk maken en vergelijken van resultaten uit het Verkeersmodel Amsterdam.

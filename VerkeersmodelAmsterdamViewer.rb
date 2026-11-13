@@ -15,7 +15,6 @@ varianten = ["VMA_2025AR_Referentie", "VMA_2035AR_Autonoom", "VMA_2035AR_Plan_A"
 ## HIERONDER ABSOLUUT NIETS AANPASSEN ##
 ########################################
 ##             Versie 0.8             ##
-##           Rogier Pelgrim           ##
 ########################################
 
 require 'date'
